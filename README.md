@@ -1,1 +1,1 @@
-# boshlang-ich_kodlar_python-
+yangi_boshlovchilarga_foydasi_tegishi_mumkin.
